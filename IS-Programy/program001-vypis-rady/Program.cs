@@ -27,14 +27,43 @@ while (again == "a")
 
 
     //Vstup hodnoty do programu, řešený lépe
-    Console.Write("Zadejte první číslo řady: ");
+        Console.Write("Zadejte první číslo řady (celé číslo): ");
     int first;
     while (!int.TryParse(Console.ReadLine(), out first))
     {
-        Console.Write("Nezadali jste cele cislo. Zadejte prvni cislo rady znovu: ");
-    } 
+        Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
+    }
 
 
+    Console.Write("Zadejte poslední číslo řady (celé číslo): ");
+    int last;
+    while (!int.TryParse(Console.ReadLine(), out last))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte poslední číslo řady znovu: ");
+    }
+
+    Console.Write("Zadejte diferenci (celé číslo): ");
+    int step;
+    while (!int.TryParse(Console.ReadLine(), out step))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte diferenci znovu: ");
+    }
+
+
+    //Vystup zadanych hodnot
+    Console.WriteLine();
+    Console.WriteLine("======================================");
+    Console.WriteLine("Zadali jste tyto hodnoty");
+    Console.WriteLine("Prvni cislo rady: {0}", first);
+    Console.WriteLine("Posledni cislo rady: {0}", last);
+    Console.WriteLine("Diference: {0}", step);    
+    Console.WriteLine("======================================");
+    Console.WriteLine("Prvni cislo: {0}: Posledni cislo: {1}: Diference {2}", first, last, step);
+    Console.WriteLine("======================================");
+
+    // Vypis ciselne rady
+    Console.WriteLine();
+    
 
 
 }
