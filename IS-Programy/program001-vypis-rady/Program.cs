@@ -63,7 +63,20 @@ while (again == "a")
 
     // Vypis ciselne rady
     Console.WriteLine();
-    
+    Console.WriteLine("======================================");
+    Console.WriteLine("Vypis ciselne rady");
 
+    int current = first; 
+    while (current <= last)
+    {
+        Console.WriteLine(current);
+        current = current + step; // pricteni diference k aktualni hodnote
+
+    }
+
+
+    Console.WriteLine();
+    Console.WriteLine("Pro opakování programu stiskněte klávesu a");
+    again = Console.ReadLine();
 
 }
