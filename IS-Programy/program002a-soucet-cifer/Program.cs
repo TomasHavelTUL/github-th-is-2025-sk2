@@ -46,6 +46,7 @@ while (again == "a")
     // musime posledni cifru pricist
     suma = suma + number;
 
+    Console.WriteLine();
     Console.WriteLine("Soucet cifer cisla {0} je {1}", numberBackup, suma);
 
 
