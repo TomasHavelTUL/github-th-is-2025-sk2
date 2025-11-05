@@ -1,0 +1,15 @@
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\bin\Debug\net9.0\program004c-vlastni-obrazec-3.exe
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\bin\Debug\net9.0\program004c-vlastni-obrazec-3.deps.json
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\bin\Debug\net9.0\program004c-vlastni-obrazec-3.runtimeconfig.json
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\bin\Debug\net9.0\program004c-vlastni-obrazec-3.dll
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\bin\Debug\net9.0\program004c-vlastni-obrazec-3.pdb
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\program004c-vlastni-obrazec-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\program004c-vlastni-obrazec-3.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\program004c-vlastni-obrazec-3.AssemblyInfo.cs
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\program004c-vlastni-obrazec-3.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\program004c-vlastni-obrazec-3.sourcelink.json
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\program004c-vlastni-obrazec-3.dll
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\refint\program004c-vlastni-obrazec-3.dll
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\program004c-vlastni-obrazec-3.pdb
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\program004c-vlastni-obrazec-3.genruntimeconfig.cache
+C:\Users\minec\Documents\aaa\IS-2025-Sk2\github-th-is-2025-sk2\IS-Programy\program004c-vlastni-obrazec-3\obj\Debug\net9.0\ref\program004c-vlastni-obrazec-3.dll
