@@ -58,13 +58,62 @@ while (again == "a")
     //priprava pro vyuziti tridy Random
     Random myRandNumb = new Random();
 
+
+    // kladna, zaporna nebo nuly
+    int negativeNumbs = 0;
+    int positiveNumbs = 0;
+    int zeroes = 0;
+
+    //suda nebo licha
+    int evenNumbs = 0;
+    int oddNumbs = 0;
+
     Console.WriteLine();
     Console.WriteLine("Nahodna cisla: ");
-    for (int i = 0; i < n ;i++)   //pole jsou indexovana od 0 - proto int = 0, zaroven proto i < n (a ne i<=n)
+    for (int i = 0; i < n; i++)   //pole jsou indexovana od 0 - proto int = 0, zaroven proto i < n (a ne i<=n)
     {
-        myRandNumbs[i] = myRandNumb.Next(LowerBound, UpperBound+1);
-        Console.Write("{0}; ",myRandNumbs[i]);
+        myRandNumbs[i] = myRandNumb.Next(LowerBound, UpperBound + 1);
+        Console.Write("{0}; ", myRandNumbs[i]);
+        /*
+        if (myRandNumbs[i] > 0)
+        {
+            positiveNumbs++;
+        }
+        if (myRandNumbs[i] < 0)
+        {
+            negativeNumbs++;
+        }
+        if (myRandNumbs[i] == 0)  
+        {
+            zeroes++;
+        }
+        */
+        if (myRandNumbs[i] > 0)
+        {
+            positiveNumbs++;
+        }
+        else if (myRandNumbs[i] < 0)
+        {
+            negativeNumbs++;
+        }
+        else zeroes++;
+
+        if (myRandNumbs[i] % 2 == 0)
+            evenNumbs++;
+        else oddNumbs++;
     }
+
+    Console.WriteLine();
+    Console.WriteLine("=================================================");
+    Console.WriteLine("=================================================");
+    Console.WriteLine("Pocet kladnych: {0}", positiveNumbs);
+    Console.WriteLine("Pocet zapornych: {0}", negativeNumbs);
+    Console.WriteLine("Pocet nul: {0}", zeroes);
+    Console.WriteLine("=================================================");
+    Console.WriteLine("Pocet sudych: {0}", evenNumbs);
+    Console.WriteLine("Pocet lichych: {0}", oddNumbs);
+    Console.WriteLine("=================================================");
+    Console.WriteLine("=================================================");
 
 
 
